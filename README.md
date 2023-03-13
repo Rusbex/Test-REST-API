@@ -1,4 +1,4 @@
-<h1></h1>
+<h1>Test-REST-API</h1>
 <ul>
 <li>composer install</li>
 <li>php artisan migrate</li>
